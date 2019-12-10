@@ -1,7 +1,0 @@
-lezione1
-
-1) 2x+1 --- (-5,5)
-2) y = x**3 (-5,5,100)
-3) y = np.sin(x) (-np.pi,np.pi,100)
-4) y = np.sin(x) z = np.cos(x) (-np.pi,np.pi,100)
-5) y = np.exp(x)
