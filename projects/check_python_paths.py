@@ -1,3 +1,4 @@
+# Simple script to check python installation paths
 import sys
 
 for p in sys.path:
@@ -5,6 +6,7 @@ for p in sys.path:
 
 
 '''
+Example Output
 C:\Users\manue\OneDrive\Documenti\projects
 C:\Users\manue\AppData\Local\Programs\Python\Python38\python38.zip
 C:\Users\manue\AppData\Local\Programs\Python\Python38\DLLs
