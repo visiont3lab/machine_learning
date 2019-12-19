@@ -2,4 +2,4 @@
 #apt-get install texlive texlive-xetex texlive-latex-extra pandoc
 #pip3 install pypandoc
 
-jupyter nbconvert --to PDF "../4-Datasets/04_scikit-learn-Dataset_PCA.ipynb"
+jupyter nbconvert --to PDF "/home/manuel/visiont3lab-github/public/machine_learning/05-DecisionTree/05_DecisionTree.ipynb"
