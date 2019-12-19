@@ -17,5 +17,5 @@ Corso di machine learning e machine vision introduction
 5. (2019/12/12) Decision Tree [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/05-DecisionTree/05_DecisionTree.ipynb) [[Download PDF]](https://visiont3lab.github.io/machine_learning/05-DecisionTree/05_DecisionTree.pdf)
 
 6. (2019/12/12) Regressione Lineare Recap [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://
-colab.research.google.com/github/visiont3lab/machine_learning/blob/master/06-RegressioneEsempio/06_RegressioneEsempio.ipynb) [[Download PDF]](https://visiont3lab.github.io/machine_learning/06-RegressioneEsempio/06_RegressioneEsempio.pdf)
+colab.research.google.com/github/visiont3lab/machine_learning/blob/master/06-RegressioneEsempio/06_RegressioneEsempio.ipynb)
 
