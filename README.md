@@ -14,7 +14,7 @@ Corso di machine learning e machine vision introduction
 
 4. (2019/12/12) Datasets -Scikit Learn datasets, PCA e Regressione Lineare[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/04-Datasets/04_scikit_learn_Dataset_PCA.ipynb) [[Download PDF]](https://visiont3lab.github.io/machine_learning/04-Datasets/04_scikit_learn_Dataset_PCA.pdf)
 
-5. (2019/12/17) Decision Tree [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/05-DecisionTree/05_DecisionTree.ipynb) [[Download PDF]](https://visiont3lab.github.io/machine_learning/05-DecisionTree/05_DecisionTree.pdf)
+5. (2019/12/17) Decision Tree [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/05-DecisionTree/05_DecisionTree.ipynb) [[Download PDF]](https://visiont3lab.github.io/machine_learning/blob/master/05-DecisionTree/05_DecisionTree.pdf)
 
 6. (2019/12/19) Regressione Lineare Recap [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/06-RegressioneEsempio/06_RegressioneEsempio.ipynb)
 
