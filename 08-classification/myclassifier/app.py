@@ -16,7 +16,7 @@ app = Flask(__name__)
 import re 
 from PIL import Image
 
-from classifier import MyRandomForestClassifier, load_model
+from train import MyRandomForestClassifier, load_model
 import cv2
 import base64 
 import  urllib.request
@@ -24,7 +24,7 @@ import io
 
 global my_clf
 my_clf = MyRandomForestClassifier()
-my_clf = load_model("random_forest_classifier.pkl")
+my_clf = load_model("models/random_forest_bin_classifier.pkl")
 
 
 def convertImage(imgData1):
@@ -66,7 +66,13 @@ def predict():
     #gray = dst/255
     resized_img =  np.asarray(cv2.resize(dst, (28, 28)))
     inp_img = resized_img.flatten()
-    Y_pred = my_clf.predict([inp_img])
+    #Y_pred = my_clf.predict([inp_img])
+
+    threshold_chosen = 0.9
+    Y_pred_proba = my_clf.predict_proba([inp_img])
+    Y_score = Y_pred_proba[:, 1]
+    Y_pred = (Y_score >= threshold_chosen)
+
     response = np.array_str(Y_pred)
     print(Y_pred)
     return response	

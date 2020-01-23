@@ -21,3 +21,10 @@ Corso di machine learning e machine vision introduction
 7. (2020/01/14) KNN random forest [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/07-KNN-RandomForest/7_knn_random_forest.ipynb)[[Download PDF]](https://visiont3lab.github.io/machine_learning/07-KNN-RandomForest/randomforest.pdf)
 
 8. (2020/01/16) Binary Classifier[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/08-classification/binary_classification.ipynb)[[Download PDF]](https://visiont3lab.github.io/machine_learning/08-classification/binary_classification.pdf)
+
+9. (2020/01/18) PCA Esercizi[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/09_PCA_Esercizi/9_PCA_esercizi.ipynb)[[Download PDF]](https://visiont3lab.github.io/machine_learning/09_PCA_Esercizi/PCA.pdf)
+
+10. (2020/01/21) Ensemble SVM[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/10-Ensemble_SVM/10_Ensemble_SVM.ipynb)
+Ensemble SVM Esercizio[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/10-Ensemble_SVM/Esercizio_soluz.ipynb)
+
+11. (2020/01/23) Binary Classifier[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/11-ClassificationProject/multilabel_classification.ipynb)
