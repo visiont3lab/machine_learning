@@ -1,6 +1,8 @@
 # Big Data Lab 2018-2019
 Corso di machine learning e machine vision introduction
 
+* [Github Repository](https://github.com/visiont3lab/machine_learning)
+
 ## Materiale del corso
 
 1. (2019/12/03) Introduzione Matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/01-Matplotlib/01_Matplotlib.ipynb) [[Download PDF]](https://visiont3lab.github.io/machine_learning/01-Matplotlib/01_Matplotlib.pdf) 
@@ -28,3 +30,11 @@ Corso di machine learning e machine vision introduction
 Ensemble SVM Esercizio[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/10-Ensemble_SVM/Esercizio_soluz.ipynb)
 
 11. (2020/01/23) Multi Class Classifier[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/11-ClassificationProject/multilabel_classification.ipynb) Image Processing[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/11-ClassificationProject/ImageProcessing.ipynb)
+
+12. (2020/01/28) Artificial Neural Network Dog Cat Classifier[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/12-Intro_ANN/dog_cat.ipynb) MNIST Kaggle[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/12-Intro_ANN/MNIST-Kaggle.ipynb)[[Download PDF]](https://visiont3lab.github.io/machine_learning/12-Intro_ANN/CNN.pdf)
+
+13. (2020/01/30) Face Emotions Classifier[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/13-ClassificationEmotions/clf_face_emotion) Teachable Machine SVM classifier[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/13-ClassificationEmotions/clf_teachable_machine)
+
+
+
+
