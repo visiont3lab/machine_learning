@@ -33,9 +33,10 @@ Ensemble SVM Esercizio[![Open In Colab](https://colab.research.google.com/assets
 
 12. (2020/01/28) Artificial Neural Network Dog Cat Classifier[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/12-Intro_ANN/dog_cat.ipynb) MNIST Kaggle[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/12-Intro_ANN/MNIST-Kaggle.ipynb)[[Download PDF]](https://visiont3lab.github.io/machine_learning/12-Intro_ANN/CNN.pdf)
 
-13. (2020/01/30) [Face Emotions Classifier](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/13-ClassificationEmotions/clf_face_emotion) [Teachable Machine SVM classifier]
-(https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/13-ClassificationEmotions/clf_teachable_machine)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/13-ClassificationEmotions/clf_teachable_machine/classification_SVM.ipynb)
+13. (2020/01/30) 
+	* [Face Emotions Classifier](https://github/visiont3lab/machine_learning/blob/master/13-ClassificationEmotions/clf_face_emotion) 
+	* [Teachable Machine SVM classifier](https://github/visiont3lab/machine_learning/blob/master/13-ClassificationEmotions/clf_teachable_machine)
+	* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine_learning/blob/master/13-ClassificationEmotions/clf_teachable_machine/classification_SVM.ipynb)
 
 
 
