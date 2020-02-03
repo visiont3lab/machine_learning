@@ -60,10 +60,10 @@ if __name__ == "__main__":
             # preprocessing
             mask_gray = cv2.cvtColor(mask_frame, cv2.COLOR_BGR2GRAY)
             im = mask_gray/255.0
-            im = cv2.resize(im, (64,64), interpolation = cv2.INTER_AREA)
-            im = im.reshape(64*64)
+            im = cv2.resize(im, (128,128), interpolation = cv2.INTER_AREA)
+            im = im.reshape(128*128)
             res_im = model_im.predict([im])
-            print("image res: ", class_name[int(res_im)])
+            print("----------------image res: ", class_name[int(res_im)])
     
             # Case vector points
             # preprocessing
